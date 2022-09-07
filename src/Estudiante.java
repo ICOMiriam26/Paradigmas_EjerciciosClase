@@ -10,7 +10,7 @@ public class Estudiante {
         this.calificacion = calificacion;
     }
     public void verCalificacion(){
-        //System.out.println("La calificación de "+|+" es "+calificacion);
+       // System.out.println("La calificación de "++" es "+calificacion);
     }
     public void verCursos(){
         System.out.println("El curso es: "+curso);
